@@ -1,4 +1,4 @@
-# DQN Agent Snake Game
+# snake-game
 
 This project contains the four main files:
 1. **snake_env.py** : Run this and you can play the game Snake by yourself
